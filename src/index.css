@@ -88,6 +88,7 @@ header form button:hover {
   flex-basis: 20%;
   height: 170px;
   transition: all .2s linear;
+  cursor: pointer;
 }
 .light p {
   color: #fff;
